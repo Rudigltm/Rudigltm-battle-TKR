@@ -1,0 +1,6 @@
+{
+  "name": "AUTO TECH BATTLE: TKR CHALLENGE",
+  "description": "Game perlombaan duel edukatif Teknik Kendaraan Ringan (TKR) SMK interaktif untuk Tim A dan Tim B dengan arena mobil jurang, sistem bank soal komprehensif, dan animasi visual.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
